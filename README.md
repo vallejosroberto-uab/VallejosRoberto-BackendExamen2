@@ -11,7 +11,7 @@ Diseñada para ser consumida por el frontend Angular en http://localhost:4200.
 - Laravel 11
 - Base de datos MySQL o SQLite (configurada en .env)
 
-## Estructura de archivos clave
+## Estructura de archivos clave.
 app/
 ├── Models/
 │   └── Empleado.php        → Modelo Eloquent con fillable y reglas
